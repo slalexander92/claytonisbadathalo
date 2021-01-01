@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img class="clayton-image" src="./assets/clayton-sucks-at-halo.gif">
-    <h1>:)</h1>
+    <h1>Welcome to claytonsucksathalo.com :)</h1>
     <img class="clayton-image" src="./assets/clayton.jpg">
   </div>
 </template>
